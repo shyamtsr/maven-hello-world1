@@ -13,7 +13,7 @@ public class HelloController {
 
 	@GetMapping("/test")
 	public String test() {
-		return "Hello World, Welcome to Spring Boot Testing...";
+		return "Hello World, Welcome to Book World...";
 	}
 
 }
